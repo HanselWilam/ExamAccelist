@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\WorkingSpace\\Repository\\HanselAcceloka.Entities\\HanselAcceloka.Entities.csproj": {}
+    "D:\\WorkingSpace\\Repository\\ExamAcceloka-Hansel\\HanselAcceloka.Entities\\HanselAcceloka.Entities.csproj": {}
   },
   "projects": {
-    "D:\\WorkingSpace\\Repository\\HanselAcceloka.Entities\\HanselAcceloka.Entities.csproj": {
+    "D:\\WorkingSpace\\Repository\\ExamAcceloka-Hansel\\HanselAcceloka.Entities\\HanselAcceloka.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WorkingSpace\\Repository\\HanselAcceloka.Entities\\HanselAcceloka.Entities.csproj",
+        "projectUniqueName": "D:\\WorkingSpace\\Repository\\ExamAcceloka-Hansel\\HanselAcceloka.Entities\\HanselAcceloka.Entities.csproj",
         "projectName": "HanselAcceloka.Entities",
-        "projectPath": "D:\\WorkingSpace\\Repository\\HanselAcceloka.Entities\\HanselAcceloka.Entities.csproj",
+        "projectPath": "D:\\WorkingSpace\\Repository\\ExamAcceloka-Hansel\\HanselAcceloka.Entities\\HanselAcceloka.Entities.csproj",
         "packagesPath": "C:\\Users\\n7nrc\\.nuget\\packages\\",
-        "outputPath": "D:\\WorkingSpace\\Repository\\HanselAcceloka.Entities\\obj\\",
+        "outputPath": "D:\\WorkingSpace\\Repository\\ExamAcceloka-Hansel\\HanselAcceloka.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
